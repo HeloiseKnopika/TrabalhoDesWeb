@@ -1,0 +1,134 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0 auto;
+    width: 99%;
+    background-color: #CACACA; 
+}
+header{
+    border-radius: 6px;
+    background: linear-gradient(to right, #185359,  #0B2B40);
+}
+.navegacao a{
+    position: relative;
+    color:#ffffff;
+    margin: 10px;    
+    text-decoration: none;
+}
+.navegacao a:hover{
+    color:#000000;
+}
+.ita{
+    text-align: center;
+    position: relative;
+    color: #ffffff;
+}
+.logo img{
+    width: 7%; 
+    padding-top: 1%;
+    padding-left: 90%;
+}
+.conteudo1{
+    background-color: #0B2B40;
+    width: 40%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1%;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+.conteudo2{
+    background-color: #0B2B40;
+    width: 40%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1px;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+.bloquinho{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    right: -4%;
+}
+.conteudo3{
+    background-color: #0B2B40;
+    width: 40%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1%;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+.conteudo4{
+    background-color: #0B2B40;
+    width: 40%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1px;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+.bloquinho2{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    right: -4%;
+}
+.conteudo5{
+    background-color: #0B2B40;
+    width: 40%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1%;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+.conteudo6{
+    background-color: #0B2B40; 
+    width: 40%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1px;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+.bloquinho3{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    right: -4%;
+}
+.rodape{
+    color: #ffffff;
+    text-align: center;
+    
+}
+.imgatn{
+padding-bottom: 3%;
+padding-top: 2%;
+}
+.conteudo{
+    background-color: #0B2B40;
+}
+.conteudo{
+    padding: 2%;
+    color: #ffffff; 
+    background-color: #0B2B40;
+    margin: 1%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px#15407598 ;
+    width: 20%;
+    text-align: center;
+    position: relative;
+    left: 37%;
+    display: flex;
+
+}
+

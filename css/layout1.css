@@ -1,0 +1,118 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0 auto;
+    width: 99%;
+    background-color: #CACACA; 
+}
+header{
+    border-radius: 6px;
+    background: linear-gradient(to right, #2c8fec,  #88bde0);
+}
+.navegacao a{
+    position: relative;
+    color:#ffffff;
+    margin: 10px; 
+    text-decoration: none;
+}
+.navegacao a:hover{
+    color:rgb(255, 238, 0);
+}
+.ita{
+    text-align: center;
+    position: relative;
+    color: #0b175a;
+}
+.logo img{
+    width: 9%; 
+    padding-top: 2%;
+    padding-left: 90%;
+}
+.conteudo1{
+    background-color: #4c9ce7;
+    width: 95%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1%;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+.rodape{
+    color: #ffffff;
+    text-align: center;
+}
+.conteudo2{
+    background-color: #4c9ce7;
+    width: 95%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1px;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+
+.conteudo4{
+    background-color: #4c9ce7;
+    width: 95%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;  
+    padding: 1px;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+.imagemtoboagua{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 10px;
+    text-align: center;
+}
+.titob{
+    color: rgb(255, 238, 0);
+}
+.titth{
+    color: rgb(255, 238, 0);
+}
+.imagemsurfline{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 10px;
+    text-align: center;
+}
+.conteudo5{
+    background-color: #4c9ce7;
+    width: 95%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;  
+    padding: 1px;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+.conteudo6{
+    background-color: #4c9ce7;
+    width: 95%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;  
+    padding: 1px;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
+.link{
+    background-color: #4c9ce7;
+    width: 95%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;  
+    padding: 1px;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff; 
+}
+.video1{
+    padding-left: 30%;
+}
+.iframe{
+    width: 50%;
+}
