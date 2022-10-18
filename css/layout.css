@@ -6,7 +6,7 @@ body{
 }
 header{
     border-radius: 6px;
-    background: linear-gradient(to right, #185359,  #0B2B40);
+    background: linear-gradient(to right, #923a3a,  #184C78);
 }
 .navegacao a{
     position: relative;
@@ -28,7 +28,7 @@ header{
     padding-left: 90%;
 }
 .conteudo1{
-    background-color: #0B2B40;
+    background-color: #184C78;
     width: 40%;
     margin: 2%;
     border-radius: 10px;
@@ -38,7 +38,7 @@ header{
     color:#ffffff;
 }
 .conteudo2{
-    background-color: #0B2B40;
+    background-color: #184C78;
     width: 40%;
     margin: 2%;
     border-radius: 10px;
@@ -54,7 +54,7 @@ header{
     right: -4%;
 }
 .conteudo3{
-    background-color: #0B2B40;
+    background-color: #184C78;
     width: 40%;
     margin: 2%;
     border-radius: 10px;
@@ -64,7 +64,7 @@ header{
     color:#ffffff;
 }
 .conteudo4{
-    background-color: #0B2B40;
+    background-color: #184C78;
     width: 40%;
     margin: 2%;
     border-radius: 10px;
@@ -80,7 +80,7 @@ header{
     right: -4%;
 }
 .conteudo5{
-    background-color: #0B2B40;
+    background-color: #184C78;
     width: 40%;
     margin: 2%;
     border-radius: 10px;
@@ -90,7 +90,7 @@ header{
     color:#ffffff;
 }
 .conteudo6{
-    background-color: #0B2B40; 
+    background-color: #184C78; 
     width: 40%;
     margin: 2%;
     border-radius: 10px;
@@ -115,12 +115,12 @@ padding-bottom: 3%;
 padding-top: 2%;
 }
 .conteudo{
-    background-color: #0B2B40;
+    background-color: #184C78;
 }
 .conteudo{
     padding: 2%;
     color: #ffffff; 
-    background-color: #0B2B40;
+    background-color: #184C78;
     margin: 1%;
     border-radius: 5px;
     box-shadow: 10px 10px 10px#15407598 ;

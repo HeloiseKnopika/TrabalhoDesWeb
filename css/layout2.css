@@ -6,7 +6,7 @@ body{
 }
 header{
     border-radius: 6px;
-    background: linear-gradient(to right, #185359,  #0B2B40);
+    background: linear-gradient(to right, #923a3a,  #184C78);
 }
 .navegacao a{
     position: relative;
@@ -29,7 +29,7 @@ header{
     padding-left: 90%;
 }
 .conteudo1{
-    background-color: #0B2B40;
+    background-color: #184C78;
     width: 95%;
     margin: 2%;
     border-radius: 10px;
@@ -42,7 +42,7 @@ header{
     text-align: left;
 }
 .conteudo2{
-    background-color: #0B2B40;
+    background-color: #184C78;
     width: 40%;
     margin: 2%;
     border-radius: 10px;
@@ -52,7 +52,7 @@ header{
     color:#ffffff;
 }
 .conteudo3{
-    background-color: #0B2B40;
+    background-color: #184C78;
     width: 40%;
     margin: 2%;
     border-radius: 10px;
@@ -68,7 +68,7 @@ header{
     right: -6%;
 }
 .conteudo4{
-    background-color: #0B2B40;
+    background-color: #184C78;
     width: 40%;
     margin: 2%;
     border-radius: 10px;
@@ -78,7 +78,7 @@ header{
     color:#ffffff;
 }
 .conteudo5{
-    background-color: #0B2B40;
+    background-color: #184C78;
     width: 40%;
     margin: 2%;
     border-radius: 10px;
